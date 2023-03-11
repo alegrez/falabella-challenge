@@ -1,0 +1,8 @@
+{
+  "short_name": "Falabella Challenge",
+  "name": "Falabella Challenge",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
